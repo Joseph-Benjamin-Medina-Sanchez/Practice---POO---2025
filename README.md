@@ -1,4 +1,4 @@
-# Joseph´s Repository---POO---2025
+# Joseph´s Repository - for - Pracrices---POO---2025
 
-Prácticas para todo y mejorar como programador
+Pracitas para pruebas , examenes y practicas
 
