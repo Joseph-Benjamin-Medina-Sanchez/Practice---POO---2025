@@ -1,0 +1,6 @@
+*.exe
+*.obj
+*.log
+*.tmp
+/bin/
+/build/
