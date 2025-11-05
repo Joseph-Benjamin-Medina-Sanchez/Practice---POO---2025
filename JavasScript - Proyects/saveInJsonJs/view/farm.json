@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "location": "Solanda",
+    "chickens": [
+      {
+        "id": 1,
+        "name": "Karla",
+        "color": "black",
+        "age": 2,
+        "isMolting": true
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "location": "Chillogallo",
+    "chickens": [
+      {
+        "id": 2,
+        "name": "Yussepe",
+        "color": "white",
+        "age": 3,
+        "isMolting": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "location": "Sangolquí",
+    "chickens": [
+      {
+        "id": 3,
+        "name": "Josue",
+        "color": "black",
+        "age": 3,
+        "isMolting": false
+      }
+    ]
+  }
+]
