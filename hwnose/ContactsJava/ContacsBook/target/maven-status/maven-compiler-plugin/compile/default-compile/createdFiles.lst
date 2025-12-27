@@ -1,7 +1,0 @@
-ec\edu\espe\contactsbook\model\Contact.class
-ec\edu\espe\contactsbook\view\FrmContacts$2.class
-ec\edu\espe\contactsbook\mongo\ContactRepository.class
-ec\edu\espe\contactsbook\view\FrmContacts.class
-ec\edu\espe\contactsbook\mongo\MongoDBConnection.class
-ec\edu\espe\contactsbook\view\FrmContacts$3.class
-ec\edu\espe\contactsbook\view\FrmContacts$1.class
